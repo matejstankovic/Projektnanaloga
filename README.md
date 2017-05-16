@@ -1,2 +1,4 @@
-# Projektna naloga
-To je moja projektna naloga
+# Tekaški treningi
+
+To je moja projektna naloga pri uvodu v programiranje
+
